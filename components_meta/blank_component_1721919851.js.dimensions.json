@@ -1,0 +1,18 @@
+{
+    "name": "blank_component",
+    "type": "markdown",
+    "metadata": {},
+    "w": 2,
+    "h": 7,
+    "x": "100",
+    "y": "100",
+    "i": "0",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "maxH": 7,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
